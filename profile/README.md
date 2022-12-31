@@ -9,3 +9,7 @@ Simple AOSP With Few Extra Features
 To get started, you gonna have to check the following repositories:
 
 * [**Manifest**](https://github.com/SOSP-OS/android_manifest)
+
+Donation:
+
+* [**Paypal**]:https://www.paypal.me/gnathvm
