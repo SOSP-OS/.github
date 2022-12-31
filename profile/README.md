@@ -12,4 +12,4 @@ To get started, you gonna have to check the following repositories:
 
 Donation:
 
-* [**Paypal**]:https://www.paypal.me/gnathvm
+* [**Paypal**](https://www.paypal.me/gnathvm)
