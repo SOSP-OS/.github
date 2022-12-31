@@ -10,6 +10,8 @@ To get started, you gonna have to check the following repositories:
 
 * [**Manifest**](https://github.com/SOSP-OS/android_manifest)
 
+* [**Downloads**](https://sourceforge.net/projects/sosp-os-project/files/SOSP-13)
+
 Donation:
 
 * [**Paypal**](https://www.paypal.me/gnathvm)
