@@ -1,9 +1,8 @@
 
 # <p align="center">SOSP-OS Project </p>
-                    ---------------
+                   
 ## <p align="center"> Simple AOSP With Few Extra Features </p>
-                      -----------------------------------
-
+                      
 <img src="https://forum.xda-developers.com/attachments/edit-jpg.5790235/" alt="Sosp-OS Project" />
 
 
