@@ -1,4 +1,5 @@
-# ***SOSP-OS Project***
+
+<p align="center"> # ***SOSP-OS Project*** </p>
    ---------------
 ## Simple AOSP With Few Extra Features
   -----------------------------------
