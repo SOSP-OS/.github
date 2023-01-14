@@ -1,7 +1,7 @@
 
-# <p align="center">SOSP-OS Project </p>
+# <p align="center"><i>SOSP-OS Project</i></p>
                    
-## <p align="center"> Simple AOSP With Few Extra Features </p>
+## <p align="center"><i> Simple AOSP With Few Extra Features </i></p>
                       
 <img align="center" src="https://forum.xda-developers.com/attachments/edit-jpg.5790235/" alt="Sosp-OS Project" />
 
