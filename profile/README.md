@@ -1,7 +1,7 @@
 
 # <p align="center"><i>SOSP-OS Project</i></p>
                    
-## <p align="center"><i> Simple AOSP With Few Extra Features </i></p>
+## <p align="center"><i> AOSP With Few Extra Features </i></p>
                       
 <img align="center" src="https://github.com/SOSP-OS/.github/blob/main/profile/SOSP-OS_Project.png/" alt="Sosp-OS Project" />
 
