@@ -3,7 +3,7 @@
                    
 ## <p align="center"><i> Simple AOSP With Few Extra Features </i></p>
                       
-<img align="center" src="https://forum.xda-developers.com/attachments/edit-jpg.5790235/" alt="Sosp-OS Project" />
+<img align="center" src="https://github.com/SOSP-OS/.github/blob/main/profile/SOSP-OS_Project.png/" alt="Sosp-OS Project" />
 
 
 To get started, you gonna have to check the following repositories
