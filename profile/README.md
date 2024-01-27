@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/SOSP-OS/.github/blob/main/profile/SOSP-OS_Project.png/" alt="Sosp-OS Project" />
+<img align="center" src="https://source.android.com/images/home/billboard-bg.svg/" alt="Sosp-OS Project" />
 
 To get started, you gonna have to check the following repositories
 
