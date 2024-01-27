@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.cnx-software.com/wp-content/uploads/2023/10/Android-14.jpg?lossy=0&strip=none&ssl=1" alt="Sosp-OS Project" />
+<img align="center" src="https://github.com/SOSP-OS/.github/blob/main/Android-14.jpg" alt="Sosp-OS Project" />
 
 To get started, you gonna have to check the following repositories
 
